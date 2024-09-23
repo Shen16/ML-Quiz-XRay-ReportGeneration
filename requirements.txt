@@ -1,0 +1,12 @@
+openai
+tensorboard
+transformers
+tokenizers
+deepspeed
+torch
+torchvision
+peft
+bitsandbytes
+numpy
+scikit-learn
+tensorboard
